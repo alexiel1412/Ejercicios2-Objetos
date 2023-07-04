@@ -72,6 +72,6 @@ public class Cafetera
 	}
 
 	public String toString() {
-		return "Capacidad actual de la cafetera " + this.capacidadActual + "/" + this.capacidadMaxima + " c.c.\n";
+		return "Capacidad actual [" + this.capacidadActual + "/" + this.capacidadMaxima + " c.c.]\n";
 	}
 }
